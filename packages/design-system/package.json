@@ -95,7 +95,7 @@
   },
   "dependencies": {
     "element-ui": "~2.15.7",
-    "sanitize-html": "2.7.0",
+    "sanitize-html": "2.7.1",
     "vue2-boring-avatars": "0.3.4"
   }
 }
